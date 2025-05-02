@@ -68,7 +68,7 @@ Successfully developed a linear regression model that predicts movie ratings wit
 
 - **Organization**: Codsoft  
 - **Role**: Data Science Intern  
-- **Duration**: 15/04/25 to 15/05/25.  
+- **Duration**: April 2025 to May 2025.  
 - **Tools Used**: Jupyter, Python, Scikit-learn
 
 ---
